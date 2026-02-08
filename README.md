@@ -1,16 +1,62 @@
-## Hi there 👋
+# Halloo, I’m Charles
 
-<!--
-**carpathiaaa/carpathiaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data & Analytics Engineer** with a background in **computer engineering, applied machine learning, and internal tool development**, currently focused on building **reliable, decision-ready data systems** in enterprise and fintech environments.
 
-Here are some ideas to get you started:
+I enjoy working at the intersection of **data, automation, and product** — turning messy datasets and manual workflows into scalable tools people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m Focused On
+- Data profiling, validation, and quality checks
+- Automation of operational and reporting workflows
+- Applied ML & NLP for prioritization and insight generation
+- Analytics systems for finance, compliance, and operations
+- ESG and sustainability-driven data analysis
+
+---
+
+## Tech Stack
+
+### Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Data, Analytics & ML
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-%23009FDA?style=for-the-badge&logo=spacy&logoColor=white)
+
+### Databases & Cloud
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Visualization & BI
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Frontend, Automation & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=carpathiaaa&theme=onedark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=carpathiaaa&theme=onedark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carpathiaaa&theme=onedark&layout=compact)
+
+---
+
+## Let’s Connect (ihh)
+- 📍 Manila, PH
+- 💼 Open to **Data Engineering, Analytics, and ML-adjacent roles**
+- 🤝 Happy to collaborate on meaningful, impact-driven projects
+
+> *Good data enables action brav (trust)*
