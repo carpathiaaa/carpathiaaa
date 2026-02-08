@@ -59,12 +59,6 @@ I enjoy working at the intersection of **data, automation, and product** — tur
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=carpathiaaa&theme=onedark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=carpathiaaa&theme=onedark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carpathiaaa&theme=onedark&layout=compact)
-
----
 
 ## Let’s Connect (ihh)
 - 📍 Manila, PH
